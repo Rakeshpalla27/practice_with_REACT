@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home</title>
+    <script src="../node_modules/react/umd/react.development.js"></script>
+    <script src="../node_modules/react-dom/umd/react-dom.development.js"></script>
+    <script src="../node_modules/@babel/standalone/babel.js"></script>
+    
+    <script type="text/babel">
+        function Login(){
+            return (
+                <div>
+                    <h2>user login</h2>
+                    <dl>
+                        <dt>username </dt>
+                        <dd><input type="text" /></dd>
+                        <dt>password</dt>
+                        <dd><input type="password"/></dd>
+
+                    </dl>
+                    <button>login</button>
+                    
+                </div>
+            )
+        }
+        function Maincomponent(){
+            return(
+            <div>
+                <h2>welcome to netflix home</h2>
+                <Login/>
+            </div>)
+
+        }
+        const root=ReactDOM.createRoot(document.getElementById("root"));
+        root.render(<Maincomponent/>);
+    </script>
+</head>
+<body>
+    <noscript>please enable javascript</noscript>
+    <h1 id ="root"></h1>
+</body>
+</html>
