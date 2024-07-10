@@ -1,2 +1,17 @@
-i have taken data from nasa api which is related to the mars rover data.
-I represented the data in a good manner i have tried tables and cards
+DATA BINDING:
+  I have practised data binding which means taken the data from the source and binding it to the ui.
+  I have learnt knowledge on 
+      1.one way binding 
+      2.two way binding
+USE STATE:
+  I have gained pratice with useState in react.
+  This makes the component mutable.
+  Two way binding
+
+
+
+
+
+NASA-API:(representing data using fetch promise in javascript)
+  I have taken data from nasa api which is related to the mars rover data.
+  I represented the data in a good manner i have tried tables and cards
