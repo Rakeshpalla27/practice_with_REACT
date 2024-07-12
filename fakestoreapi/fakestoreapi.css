@@ -1,0 +1,13 @@
+.card-header{
+    height:300px;
+}
+.card{
+    width: 250px;
+}
+main{
+    height:800px;
+    overflow: auto;
+}
+.header{
+    margin-top: 20px;
+}
