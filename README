@@ -8,10 +8,10 @@ USE STATE:
   This makes the component mutable.
   Two way binding
 
-
-
-
-
 NASA-API:(representing data using fetch promise in javascript)
   I have taken data from nasa api which is related to the mars rover data.
   I represented the data in a good manner i have tried tables and cards
+
+FAKESTORE-API:(representing api data and binding it to user interface )
+  In this ui i used axios and jquery ajaxs to retrive data from api and binded it to ui.
+  And i have represented the data in the api in form of a store website using card and added a filter to search based on category.
