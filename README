@@ -15,3 +15,9 @@ NASA-API:(representing data using fetch promise in javascript)
 FAKESTORE-API:(representing api data and binding it to user interface )
   In this ui i used axios and jquery ajaxs to retrive data from api and binded it to ui.
   And i have represented the data in the api in form of a store website using card and added a filter to search based on category.
+
+STYLE-BINDING:
+ style binding is simplely used to to style a element.
+
+CLASS -BINDING:
+ class-binding is used to style mutiple elements simultaneously.
