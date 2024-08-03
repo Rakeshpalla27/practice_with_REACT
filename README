@@ -21,3 +21,6 @@ STYLE-BINDING:
 
 CLASS -BINDING:
  class-binding is used to style mutiple elements simultaneously.
+
+EVENT-BINDING:
+ demostration about the event in react how to use and how to it works.
