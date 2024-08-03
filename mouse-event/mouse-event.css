@@ -1,0 +1,11 @@
+img:hover{
+    cursor: grab;
+}
+.preview-img:hover{
+
+    transform: scale(1.5);
+    transition:2s;
+}
+.preview-img{
+    transition:2s;
+}
