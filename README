@@ -24,3 +24,5 @@ CLASS -BINDING:
 
 EVENT-BINDING:
  demostration about the event in react how to use and how to it works.
+
+'useState is react hook
