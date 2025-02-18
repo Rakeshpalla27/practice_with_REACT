@@ -19,7 +19,7 @@ FAKESTORE-API:(representing api data and binding it to user interface )
 STYLE-BINDING:
  style binding is simplely used to to style a element.
 
-CLASS -BINDING:
+CLASS -BINDING:..
  class-binding is used to style mutiple elements simultaneously...
 
 
