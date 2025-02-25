@@ -4,6 +4,7 @@ DATA BINDING:
       1.one way binding 
       2.two way binding
 USE STATE:
+
   I have gained pratice with useState in react.
   This makes the component mutable.
 
