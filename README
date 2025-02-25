@@ -8,7 +8,7 @@ USE STATE:
   This makes the component mutable.
   Two way binding
 
-NASA-API:(representing data using fetch promise in javascript)
+NASA-API:(representing data using fetch promise in javascript):
   I have taken data from nasa api which is related to the mars rover data.
   I represented the data in a good manner i have tried tables and cards
 
