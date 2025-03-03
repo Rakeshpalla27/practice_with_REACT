@@ -20,7 +20,7 @@ STYLE-BINDING:
  style binding is simplely used to to style a element.
 
 CLASS -BINDING:..
- class-binding is used to style mutiple elements simultaneously...
+ class-binding is used to style mutiple elements simultaneously.
 
 
 EVENT-BINDING:
