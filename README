@@ -25,6 +25,9 @@ CLASS -BINDING:..
 USEREDUCER HOOK ..
 datacounter practice to learn usereducer hook 
 
+REACT_ROUTER
+//react router is third party library used to match ui with urls to make them as single page applications.
+
 
 EVENT-BINDING:
  demostration about the event in react how to use and how to it works..
