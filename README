@@ -30,7 +30,8 @@ REACT_ROUTER
 
 
 PERFORMANCE OPTIMISATION:
- //1)MEME which is used to memorise the components in react.
+ //1)MEMO which is used to memorise the components in react.
+//2)USEMEMO which is used to memorise the objects when they are passed as props
 
 
 EVENT-BINDING:
