@@ -32,7 +32,7 @@ REACT_ROUTER
 PERFORMANCE OPTIMISATION:
  //1)MEMO() which is used to memorise the components in react.
 //2)USEMEMO() which is used to memorise the objects when they are passed as props
-//3)USECALLBACK()  which is used to memorise the functions.
+//3)USECALLBACK()  which is used to memorise the functions..
 
 
 EVENT-BINDING:
