@@ -39,6 +39,9 @@ LAZY-LOADING:
 //This makes pages load when they are requested instead loading a huge js file at a tym .
 
 
+//REDUX IMPLEMENTATION 
+
+
 EVENT-BINDING:
  demostration about the event in react how to use and how to it works.
 
