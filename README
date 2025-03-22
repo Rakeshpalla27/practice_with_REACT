@@ -5,7 +5,7 @@ DATA BINDING:
       2.two way binding
 USE STATE:
   I have gained pratice with useState in react.
-  This makes the component mutable.
+  This makes the component mutable
   Two way binding.
 .
 NASA-API:(representing data using fetch promise in javascript):
